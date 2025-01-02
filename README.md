@@ -1,4 +1,4 @@
-### Aashish Koshti
+<p align=center><h2>Aashish Koshti</h2><p>  
 Software engineer, heavily Backend, building robust and scalable systems.
 
 I love building products and I frequently write about tech and software.
