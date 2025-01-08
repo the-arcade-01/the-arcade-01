@@ -8,8 +8,8 @@ BLOGS_JSON_FILE = "devto_blogs.json"
 with open(BLOGS_JSON_FILE, "r") as file:
     blogs = json.load(file)
 
-# Get the top 5 blogs
-latest_blogs = blogs[:5]
+# Get the top 4 blogs
+latest_blogs = blogs[:4]
 
 # Generate the markdown list for blogs
 blogs_md = "\n".join(
