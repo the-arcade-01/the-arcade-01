@@ -12,5 +12,4 @@ Latest blogs
 - [User Authentication in Go APIs: JWT, Password Hashing, and MySQL](https://dev.to/the-arcade-01/user-authentication-in-go-jwt-password-hashing-and-mysql-2n8o) - 2023-09-10
 - [Storing and retrieving data from MySQL in Go APIs](https://dev.to/the-arcade-01/storing-and-retrieving-data-from-mysql-in-go-apis-3k33) - 2023-09-03
 - [Write APIs in Go using go-chi](https://dev.to/the-arcade-01/write-apis-in-go-using-go-chi-d3g) - 2023-09-01
-- [Weekly Coding Questions - W4](https://dev.to/the-arcade-01/weekly-coding-questions-w3-12p2) - 2022-07-31
 <!-- BLOGS:END -->
