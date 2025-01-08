@@ -1,0 +1,30 @@
+name: Update README with Latest Dev.to Blogs
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch Latest Blogs from Dev.to
+        run: |
+          curl -s https://dev.to/api/articles?username=your_username > devto_blogs.json
+
+      - name: Update README
+        run: |
+          python3 update_readme.py
+
+      - name: Commit Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Updated README with latest blogs" || echo "No changes to commit"
+          git push
