@@ -2,7 +2,7 @@ name: Update README with Latest Dev.to Blogs
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily
+    - cron: "0 8 * * *" # Runs daily
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch Latest Blogs from Dev.to
         run: |
-          curl -s https://dev.to/api/articles?username=your_username > devto_blogs.json
+          curl -s https://dev.to/api/articles?username=the-arcade-01 > devto_blogs.json
 
       - name: Update README
         run: |
