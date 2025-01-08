@@ -13,7 +13,7 @@ latest_blogs = blogs[:4]
 
 # Generate the markdown list for blogs
 blogs_md = "\n".join(
-    [f"- [{blog['title']}]({blog['url']}) - {blog['published_at'][:10]}" for blog in latest_blogs]
+    [f"- [{blog['title']}]({blog['url']})" for blog in latest_blogs]
 )
 
 # Update the README.md
