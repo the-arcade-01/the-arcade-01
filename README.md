@@ -3,7 +3,7 @@ Software engineer, heavily Backend, building robust and scalable systems.
 
 I love building products and I frequently write about tech and software.
 
-Checkout my [Linkedin](https://www.linkedin.com/in/aashishkoshti/), [Dev.to](https://dev.to/the-arcade-01), [Twitter](https://twitter.com/the_arcade_01)
+Checkout my [Website](https://aashishkoshti.in/), [Linkedin](https://www.linkedin.com/in/aashishkoshti/), [Dev.to](https://dev.to/the-arcade-01), [Twitter](https://twitter.com/ArcadeBuilds)
 
 <h3>Latest blogs</h3>
 
