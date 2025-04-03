@@ -15,7 +15,7 @@ jobs:
 
       - name: Fetch Latest Blogs from Dev.to
         run: |
-          curl -s https://dev.to/api/articles?username=the-arcade-01 > devto_blogs.json
+          curl -s https://dev.to/api/articles?username=arcadebuilds > devto_blogs.json
 
       - name: Update README
         run: |
