@@ -1,4 +1,4 @@
-Building products (web, mobile, AI) • Software Engineer Distributed Systems
+Building products (web, mobile, AI) • Software Engineer (Distributed Systems)
 
 - [Website](https://aashishkoshti.in/)
 - [X / Twitter](https://twitter.com/ArcadeBuilds)
