@@ -1,9 +1,10 @@
-Building products (web, mobile, AI) • Software Engineer (Distributed Systems)
+Product Engineer crafting web, mobile & AI products.
 
 - [Website](https://aashishkoshti.in/)
 - [X / Twitter](https://twitter.com/ArcadeBuilds)
 - [Dev.to](https://dev.to/ArcadeBuilds)
 - [Linkedin](https://www.linkedin.com/in/aashishkoshti/)
+- [YouTube](https://www.youtube.com/@arcadebuilds)
 
 #### Latest blogs
 
