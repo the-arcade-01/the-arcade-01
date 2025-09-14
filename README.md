@@ -1,12 +1,12 @@
-## Hey, I'm Aashish 👋
-
-Product engineer who loves building things end-to-end — from idea to shipping.
-
-### What I'm up to
-
-- Building products that people love
-- Writing about development and product
-
-### Connect with me
-
-[Website](https://aashishkoshti.in) • [Twitter](https://twitter.com/ArcadeBuilds) • [Blog](https://blog.aashishkoshti.in) • [LinkedIn](https://www.linkedin.com/in/aashishkoshti/) • [YouTube](https://www.youtube.com/@arcadebuilds)
+<p align="center">
+<samp>Product & Indie App Developer</samp><br>
+<sub><samp>
+    <a href="https://aashishkoshti.in">Website</a> //
+    <a href="https://x.com/ArcadeBuilds">Twitter</a> //
+    <a href="https://blog.aashishkoshti.in">Blog</a> //
+    <a href="https://peerlist.io/arcade">Peerlist</a> //
+    <a href="https://www.linkedin.com/in/aashishkoshti/">LinkedIn</a> //
+    <a href="https://www.youtube.com/@arcadebuilds">YouTube</a> //
+    <a href="https://www.producthunt.com/@arcade">Product Hunt</a>
+</samp></sub>
+</p>
